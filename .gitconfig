@@ -1,0 +1,9 @@
+[push]
+	default = simple
+[user]
+	name = Chris Champagne
+	email = cchamp@seas.upenn.edu
+[core]
+	editor = emacs
+[alias]
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
